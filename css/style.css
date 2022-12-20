@@ -79,10 +79,10 @@ body{
 
 .home-img{
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 40px;
+  right: -30px;
   height: 100vh;
-  width: 45%;
+  width: 50%;
   object-fit: cover;
   opacity: 0.2;
 }
